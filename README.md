@@ -7,7 +7,7 @@
  
 - 👨‍💻 I am a frontend developer with a focus on web fundamentals. I work at Newage to deliver quality products. I build personal projects during my free time.
  
-- 📫 The best way to reach me is [Linkedin](https://www.linkedin.com/in/kiran-m-952106158/). You can also send me an email to kirankinni42@gmail.com.
+- 📫 The best way to reach me is [Linkedin](https://www.linkedin.com/in/kiran-m-952106158/). You can also send me an email to kiranmohan3568@gmail.com.
  
 <br>
  
